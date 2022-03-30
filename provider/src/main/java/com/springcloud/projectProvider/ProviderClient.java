@@ -1,4 +1,4 @@
-package com.springcloud.projectConsumer;
+package com.springcloud.projectProvider;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
